@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GooglePlacesNow</string>
+    <string name="places_api_key">AIzaSyBafBsbXLofBFE1XpdP5bnGxaQWYxvYAKs</string>
+</resources>
